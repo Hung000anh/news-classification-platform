@@ -1,0 +1,4 @@
+models/Logistic_Regession/LG_model.pkl
+models/Naive_Bayes/NB_model.pkl
+models/RandomForest/rf_model.pkl
+models/Super_Vector_Machine/SVM_model.pkl
